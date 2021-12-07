@@ -1,8 +1,10 @@
-### Olá! Eu sou o Carlos Uzêda.
+### Hello! Welcome.
 
-- ✔ Estou em busca de um emprego na área de desenvolvimento.
-- ✔ Atualmente estudando a biblioteca ReactJs com o framework NextJs.
-- 😄 Pronouns: ele/dele.
+- 23 anos.
+- Tecnólogo em Gestão de Ti. 
+- Gosto de Front-End e Back-End.
+- Cursando Análise e Desenvolvimento de Sistemas.
+- Atualmente estudando a biblioteca ReactJs com o framework NextJs.
 
 <div align="center">
   <a href="https://github.com/carlosuzeda">
