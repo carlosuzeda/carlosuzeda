@@ -45,4 +45,4 @@ Tenho 23 anos e estou em busca de emprego.
 
 #
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=carlosuzeda&theme=rogue)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=carlosuzeda&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
