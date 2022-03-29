@@ -24,9 +24,7 @@ Tenho 23 anos e estou em busca de emprego.
 
 ### 🔥 Estatísticas
 <p align="center">
-  <a href="https://github.com/carlosuzeda/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosuzeda&theme=monokai-metallian&hide_border=true"/>
-  </a>
  <p align="center"> 
   <strong>Visitas</strong><br>
   <img src="https://profile-counter.glitch.me/carlosuzeda/count.svg" />
@@ -47,4 +45,4 @@ Tenho 23 anos e estou em busca de emprego.
 
 #
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=carlosuzeda&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=carlosuzeda&theme=rogue)
