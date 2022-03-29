@@ -1,4 +1,4 @@
-## Olá, me chamo Carlos Uzeda ! 👋
+## Olá, me chamo Carlos Uzeda ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Bem vindo(a) ao meu perfil GitHub.
 
 <img src="https://images.unsplash.com/photo-1604964432806-254d07c11f32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1760&q=80" alt="wellcome" width="260" align="right">
@@ -19,8 +19,21 @@ Tenho 23 anos e estou em busca de emprego.
   <img align="center" alt="Carlos-TB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-##
+
+#
+
+### 🔥 Estatísticas
+<p align="center">
+  <a href="https://github.com/carlosuzeda/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosuzeda&theme=monokai-metallian&hide_border=true"/>
+  </a>
+ <p align="center"> 
+  <strong>Visitas</strong><br>
+  <img src="https://profile-counter.glitch.me/carlosuzeda/count.svg" />
+</p>
+</p>
+
+#
 
 ### Encontre-me em outro lugar 🌎
 
@@ -31,3 +44,7 @@ Tenho 23 anos e estou em busca de emprego.
 📸 [Instagram](https://www.instagram.com/carlos.uzeda.33/)
 
 💼 [LinkedIn](https://www.linkedin.com/in/carlos-uzeda/)
+
+#
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=carlosuzeda&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
