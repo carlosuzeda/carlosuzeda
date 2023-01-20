@@ -44,5 +44,3 @@ Tenho 24 anos e estou em busca de emprego.</p>
 💼 [LinkedIn](https://www.linkedin.com/in/carlos-uzeda/)
 
 #
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=carlosuzeda&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
