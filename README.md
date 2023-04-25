@@ -35,7 +35,7 @@ Tenho 24 anos e estou em busca de emprego.</p>
 
 ### Encontre-me em outro lugar 🌎
 
-🚀 Site - Em construção.
+🚀 [Site](https://carlosuzeda-portfolio.vercel.app/)
 
 🐦 [Twitter](https://twitter.com/CarlosUzeda1)
 
