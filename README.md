@@ -3,22 +3,13 @@
 
 <img src="https://images.unsplash.com/photo-1604964432806-254d07c11f32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1760&q=80" alt="wellcome" width="260em" align="right">
 
-<p align="justify">Eu sou um desenvolvedor {Front-End e Back-End}, formado como Tecnólogo em Gestão de TI 
-e Analista de Sistemas na Unicesumar. 
-Tenho 24 anos e estou em busca de emprego.</p>
+<p align="justify">Sou formado em Gestão da Tecnologia da Informação e Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web. Tenho experiência na criação de aplicações escaláveis utilizando tecnologias modernas como JavaScript/TypeScript, Node.js, Nest.js, Next.js, além de bancos de dados como PostgreSQL e MySQL. Em meus projetos, aplico princípios SOLID, TDD, Docker e CI/CD para garantir qualidade, escalabilidade e eficiência.
 
-:books: Atualmente estudando a biblioteca ReactJs com o framework NextJs.
+Atuo no mercado nacional desenvolvendo APIs, sistemas de processamento de arquivos em larga escala e integrações na nuvem com serviços como Google Cloud, Cloudflare e Render. Meu objetivo é sempre otimizar a performance das aplicações e oferecer soluções eficientes e seguras.
 
- #### Hard Skills
- <div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Carlos-TB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+Além do desenvolvimento web, também trabalho como programador de games na Unreal Engine 5, criando sistemas interativos e garantindo que o motor do jogo esteja otimizado para oferecer a melhor experiência possível.
+
+Minhas principais competências incluem pensamento crítico, foco em resultados, proatividade e adaptabilidade para atuar em diferentes projetos e tecnologias. Estou constantemente aprimorando minhas habilidades por meio de cursos e desafios técnicos.</p>
 
 #
 
@@ -36,10 +27,6 @@ Tenho 24 anos e estou em busca de emprego.</p>
 ### Encontre-me em outro lugar 🌎
 
 🚀 [Site](https://carlosuzeda-portfolio.vercel.app/)
-
-🐦 [Twitter](https://twitter.com/CarlosUzeda1)
-
-📸 [Instagram](https://www.instagram.com/carlos.uzeda.33/)
 
 💼 [LinkedIn](https://www.linkedin.com/in/carlos-uzeda/)
 
